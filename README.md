@@ -1,4 +1,5 @@
 # Dokument LaTeX - Chińska Republika Ludowa
+
 Projekt zaliczeniowy z przedmiotu ILAAP01 - LaTeX: tworzenie dokumentów tekstowych.
 
 ## Temat
@@ -11,4 +12,5 @@ Dokument kompilowany w TeXworks (pdfLaTeX, 3x kompilacja).
 - Strona tytułowa
 - Streszczenie
 - 5 rozdziałów
-- Bibliografia (7
+- Bibliografia (7 źródeł)
+- Tabela i ilustracja
